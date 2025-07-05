@@ -46,3 +46,10 @@ docker run -d -p 9000:9000 sonarqube:lts-community
 
 ```bash
 docker run -d --name shopping -p 8070:8070 vasanthkarthik2703/shopping:latest
+```
+
+--- 
+
+## Important Points
+
+3 or more '*'(asterisk) represents secret (docker and sonarqube key).
