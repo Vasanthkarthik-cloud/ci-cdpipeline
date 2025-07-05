@@ -17,7 +17,9 @@ This project implements a complete DevOps pipeline using **Jenkins**, **Maven**,
 
 ## SonarQube
 ```bash
-docker run -d -p 9000:9000 sonarqube:lts-community```
+docker run -d -p 9000:9000 sonarqube:lts-community
+
+---
 
 ## 🧩 CI Pipeline (`Jenkinsfile`)
 
